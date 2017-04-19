@@ -1,7 +1,7 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.3.6
-!x  -----update[rules]: 2017-4-5 20:11
-!x  -----update[video]: 2017-4-5 12:55 
+!x  -----update[rules]: 2017-4-12 12:22
+!x  -----update[video]: 2017-4-8 12:55 
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo>
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
 !x  -----------------------------------------------------------------------------------------------------------------
@@ -623,7 +623,7 @@
 |http://*/adv_
 |http://*/advert.
 |http://*/advert_$domain=~pisen.com.cn
-|http://*/advertisement/$domain=~cits.cn
+|http://*/advertisement/$domain=~cits.cn|~trip.plateno.com
 |http://*/advertising/$script
 |http://*/adview_$domain=~fxpan.com
 |http://*/advimg/
@@ -7950,7 +7950,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://m.zhuoyaju.com/$s@<script src="http://i.zhuoyaju.com*</script>@@
 |http://m.zhuoyaju.com/$s@<script data-union-ad data-priority=1 data-position=fixed>*</script>@@
 |http://www.s2yy.com/index.htm$s@<script src=?http://js3470.51weidashi.com*</script>@@
-|http://www.gaoqingkong.com/$s@if(divHeight1<10||divHeight2<10)@if(divHeight1<0||divHeight2<0)@{width:960px;height: 0px;@
+!|http://www.gaoqingkong.com/$s@if(divHeight1<10||divHeight2<10)@if(divHeight1<0||divHeight2<0)@{width:960px;height: 0px;@
 |http://www.tiexue.net/$s@height: 157px;@height: 0px;@
 |http://www.tiexue.net/$s@leftAd.show(); rightAd.show();@leftAd.hide(); rightAd.hide();@
 |http://www.dm530.net/play/player.php$s@t:'1?',?        l:'http://img.dm530.net/fgr/*',@t:'0', l:'',@
@@ -8359,7 +8359,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://www.dy2018.com/$s@<script type="text/javascript">if(goPAGE()=="*)}</script>@@
 |http://www.dysfz.net/$s@<script type="text/javascript" src="http://www.youfumei.com*</script>@@
 |http://www.fenghuaju.cc/images/fhj.js$s@<script src=\"http://vpn.cpva.cc*"></script>@@
-|http://www.gaoqingkong.com/$s@if(divHeight1<10||divHeight2<10)@if(divHeight1<0||divHeight2<0)@
+!|http://www.gaoqingkong.com/$s@if(divHeight1<10||divHeight2<10)@if(divHeight1<0||divHeight2<0)@
 |http://www.gueizu.com/file-$s@var secs = 10;@var secs = 1;@
 |http://www.hdchd.org/$s@<script src="http://js5208.zhudiaosz.com:*</script>@@
 |http://www.hdwan.net/$s@<script type="text/javascript" src="http://www.youfumei.com*</script>@@
