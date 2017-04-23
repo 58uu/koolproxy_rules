@@ -1,6 +1,6 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.0]
-!x  -----update[rules]: 2017-4-21 21:14
+!x  -----update[rules]: 2017-4-21 23:04
 !x  -----update[video]: 2017-4-21 19:25 
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -8134,7 +8134,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 ||bbs.my0511.com###headerbannerad,#headerightad,#threadfloor
 ||bbs.my0511.com###lphybbschklogdiv
 ||bbs.my0511.com##CENTER:nth-child(12) > TABLE > TBODY > TR > TD
-!|https://tieba.baidu.com/p/$s@/<div class="l_post l_post_bright j_l_post clearfix .+ "/@<div style="display:none"@
+|https://tieba.baidu.com/p/$s@/<div class="l_post l_post_bright j_l_post clearfix .+ "/@<div style="display:none"@
 |http://tieba.baidu.com/p/$s@/<div class="l_post l_post_bright j_l_post clearfix .+ "/@<div style="display:none"@
 ||hitvs.cn/*.htm$s@playlist%26url=http://mediainfo.hitvs.cn:8088/media/ViewMedia-Normal-??????-mp4.mp4|http://mediainfo.hitvs.cn:8088/media/ViewMedia-Normal@playlist%26url=http://mediainfo.hitvs.cn:8088/media/ViewMedia-Normal@
 ||ppsimg.com/js/v/play*.min.js?v=$s@b.P00001=COOKIE.getCookie("P00001")@b.has_ad = false;b.P00001=""@
