@@ -8869,7 +8869,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://v.baidu.com$s@<div class="mod-full-good"@<div style="display:none"@
 |http://v.baidu.com$s@<div class="mod-full-good" id="blockAD2">@<div style="display:none" id="blockAD2">@
 |http://v.baidu.com$s@<div class="section ad-hover-action" id="GoodblockAD5">@<div style="display:none" id="GoodblockAD5">@
-|tieba.baidu.com$s@<div class="t_con clearfix">@<div style="display:none">@
+!|tieba.baidu.com$s@<div class="t_con clearfix">@<div style="display:none">@
 |http://vs4.bdstatic.com/r/image/2017-02-23/$image
 ||datoporn.com$s@<div id="a"*</div>@@
 ||vidlox.tv$s@setTimeout*popup@@
