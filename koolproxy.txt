@@ -1,6 +1,6 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.0]
-!x  -----update[rules]: 2017-4-24 12:27
+!x  -----update[rules]: 2017-4-24 20:27
 !x  -----update[video]: 2017-4-21 19:25 
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -4886,11 +4886,11 @@
 ||report.qq.com^
 |https://report.qq.com^
 |https://dup.baidustatic.com/js/$script
-|https://fex.bdstatic.com/hunter/alog/
+!|https://fex.bdstatic.com/hunter/alog/
 |https://cpro.baidustatic.com/js/$script
-|https://als.baidu.com/dalog/
-|https://tieba.baidu.com/billboard/
-|https://gsp0.baidu.com/
+!|https://als.baidu.com/dalog/
+!|https://tieba.baidu.com/billboard/
+!|https://gsp0.baidu.com/
 ||51jumintong.com
 |http://static.tianyaui.com/global/broadcast/v2/js/bc_play_nong_v
 |http://wap.heiyange.com/m/js/thea/thea
@@ -5138,7 +5138,6 @@
 |http://6kk.tv/js/player/leyun.html$s@adTime=parent.adsTime;*</script>@</script>@
 |http://m.xigua15.com/Runtime/js/app
 |http://iyes.youku.com/adv?
-|https://cpro.baidustatic.com/cpro/ui/c.js
 ||qgss8.com
 ||riqu2015.com
 ||sinaimg.cn/large/$domain=ttmeiju.com
@@ -8890,26 +8889,6 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |https://*/*.php*id=$r@/https:\/\/(\w)+.((?!weibo)\w)+.(\w)+\/((?!forum|home|avatar|attachment|followbutton).)*.php\?[a-zA-Z]*id=\d+/@http://entware.mirrors.ligux.com/koolproxy/block.html@
 
 !x  ----------------------------------------------####mobile rules####----------------------------------------------------------
-|https://qzonestyle.gtimg.cn/qzone/biz/ac/comm/ver.20160810.js
-||um29.com/images/*.gif
-|http://js883.yongkang6.com:81/js/v/couplet.js
-||hanzify.org/Main/Template/Images/ak47/*.gif
-|http://cbjs.baidu.com/js/*.js
-||mydrivers.com/images/*.gif
-|https://cpro.baidustatic.com/cpro/ui/c.js
-|https://gss0.bdstatic.com/7051cy7z2RZ3otebn9fN2DJv/static/m-common/lib/bigrender_cd90775.js
-|https://gss0.bdstatic.com/7051cy792sgCpNKfpU_Y_D3/static/question/widget/js/video/video_749fae0.js
-|https://zhidao.baidu.com##.cms-slide.cms-slide-lazy.mod-noshadow,.bdb58dfa7,[class^="tfa58dfa"]
-|https://www.zybang.com##.wgt_ad-identify,.QRWarp,.aside
-||img2.zhanqi.tv/uploads/2017/04/love-201704011344082*.jpeg
-|http://www.mofangge.com###img0
-|http://btbtt.co/view/image/backimg.jpg
-|https://mimg.127.net/external/js6promote2.min.js
-|https://www.huoche.net/public/huoche/ad/jiazhuang.jpg?v=3
-|http://adm.265g.com/g/265g/*.js
-|http://d8c0d4.073img.com/100/
-|https://img3.doubanio.com/f/shire/99a1c905fb5a6d46d8e742d60199e3a99414a580/js/ad.js
-|http://81zw.qucaigg.com:8080/$script
 |https://tieba.baidu.com/mo/q/tuijianindex?uid=*
 |https://wapp.baidu.com/mo/q/tuijianindex?uid=*
 |https://tieba.baidu.com##[class$="appPromote"],[class^="forum_recommend_w forum_recommend_"],.j_click_stats,.can_close.light_see_index,.tuijian-wrap.tuijian-wrap-feed,.arrow.arrow_right.arrow_line.arrow_position_right.top_ext_li,.more_btn_package,#j_light_see_index,.xiang-guan-tie,.bottom-wonderful-recommend,#frslistcontent > li.tl_shadow> div,.tl_shadow.special-thread
