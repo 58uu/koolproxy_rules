@@ -8892,7 +8892,9 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 !x  -----------------------------------------------------------------------------------------------------------------
 |https://tb1.bdstatic.com/??/tb/mobile/app_open_*.js$script
 |https://tieba.baidu.com$s@class="tl_shadow ?????????? "@style="display:none"@
+|https://wapp.baidu.com$s@class="tl_shadow ?????????? "@style="display:none"@
 |https://tieba.baidu.com##.tl_shadow.special-thread,.xiang-guan-tie,.bottom-wonderful-recommend,.tuijian-wrap.tuijian-wrap-feed
+|https://wapp.baidu.com##.tl_shadow.special-thread,.xiang-guan-tie,.bottom-wonderful-recommend,.tuijian-wrap.tuijian-wrap-feed
 |http://m.81zw.com/scripts/common.js$script
 |https://www.mumu98.com/js/config.js$script
 |https://www.mumu98.com/js/indextop.js$script
