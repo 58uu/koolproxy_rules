@@ -1,6 +1,6 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.0]
-!x  -----update[rules]: 2017-4-24 01:08
+!x  -----update[rules]: 2017-4-24 12:27
 !x  -----update[video]: 2017-4-21 19:25 
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -8877,10 +8877,10 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://freecctv.xyz/player/Signal/$r@lashvars.t = 15;@flashvars.t = 1;@
 |http://bbs.qzzn.com/$s@<div class="wp a_h" style="line-height:60px;height:60px">@<div class="wp a_h" style="display:none">@
 |http://coral.qq.com/$s@<div class="mod-ad" id="PL_ad1">@<div style="display:none" id="PL_ad1">@
-|https://tieba.baidu.com$s@<div class="firework-wrap">@<div style="display:none">@
-|http://tieba.baidu.com$s@<div class="firework-wrap">@<div style="display:none">@
-|https://tieba.baidu.com##.region_bright.video_aside
-|https://tieba.baidu.com$s@class="region_bright my_app">@style="display:none">@
+!|https://tieba.baidu.com$s@<div class="firework-wrap">@<div style="display:none">@
+!|http://tieba.baidu.com$s@<div class="firework-wrap">@<div style="display:none">@
+!|https://tieba.baidu.com##.region_bright.video_aside
+!|https://tieba.baidu.com$s@class="region_bright my_app">@style="display:none">@
 |http://www.hao123.com/$s@<div class="tp-content">@<div style="display:none">@
 |http://www.right.com.cn/$s@<div class="a_pt">@<div style="display:none">@
 |http://www.77file.com/file/$s@onclick="window.open('http://*"@onclick="startWait();"@
