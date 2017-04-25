@@ -3820,8 +3820,8 @@
 ||histats.com/js$script
 ||hivecn.cn
 ||hkgolden.com/reqwads?s=
-||hm.baidu.com/h
-||https://hm.baidu.com/h
+!||hm.baidu.com/h
+!||https://hm.baidu.com/h
 ||home.wangmeng.com
 ||home.xdf.cn/lee_sq/js/
 ||hosting24.com
