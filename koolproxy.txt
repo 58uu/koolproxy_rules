@@ -1,6 +1,6 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.3
-!x  -----update[rules]: 2017-4-25 20:35
+!x  -----update[rules]: 2017-4-25 20:42
 !x  -----update[video]: 2017-4-25 18:47
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo>
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -8518,7 +8518,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 ||taohuabbs.net##.a_cn,.ex1,[class^="a_"][class$="a_cb"],[align="center"],[style="margin-bottom:5px"],#diynavtop
 |https://gg251.com/js/*.js$script
 |http://m.qidian.com/$r@http://m.qidian.com@https://m.qidian.com@
-|https://m.qidian.com##.home-pure-ad,.slide-ul,.slide-container,#footerApp,.mybook-game-ad,.mybook-game-ad.mybook-ad-lazy.mybook-game-ad
+|https://m.qidian.com##.home-pure-ad,.slide-ul,.slide-container,#footerApp,.mybook-game-ad,.mybook-game-ad.mybook-ad-lazy,.book-game-ad
 |http://m.kkkkba.com/js/fumeiti.js$script
 |http://3g.ali213.net/js/data/3gcommon.js?r=*$script
 |http://m.qu.la/stylewap/js/wap.js$script
