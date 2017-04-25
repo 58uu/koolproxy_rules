@@ -3820,8 +3820,8 @@
 ||histats.com/js$script
 ||hivecn.cn
 ||hkgolden.com/reqwads?s=
-!||hm.baidu.com/h
-!||https://hm.baidu.com/h
+||hm.baidu.com/h
+||https://hm.baidu.com/h
 ||home.wangmeng.com
 ||home.xdf.cn/lee_sq/js/
 ||hosting24.com
@@ -8889,42 +8889,3 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://*/*.php*id=$r@/http:\/\/(\w)+.((?!weibo)\w)+.(\w)+\/((?!forum|home|avatar|attachment|followbutton).)*.php\?[a-zA-Z]*id=\d+/@http://entware.mirrors.ligux.com/koolproxy/block.html@
 |https://*/*.php*id=$r@/https:\/\/(\w)+.((?!weibo)\w)+.(\w)+\/((?!forum|home|avatar|attachment|followbutton).)*.php\?[a-zA-Z]*id=\d+/@http://entware.mirrors.ligux.com/koolproxy/block.html@
 
-!x  -----------------------------------------------------------------------------------------------------------------
-|https://tb1.bdstatic.com/??/tb/mobile/app_open_*.js$script
-|https://tieba.baidu.com$s@class="tl_shadow ?????????? "@style="display:none"@
-|https://wapp.baidu.com$s@class="tl_shadow ?????????? "@style="display:none"@
-|https://tieba.baidu.com##.tl_shadow.special-thread,.xiang-guan-tie,.bottom-wonderful-recommend,.tuijian-wrap.tuijian-wrap-feed
-|https://wapp.baidu.com##.tl_shadow.special-thread,.xiang-guan-tie,.bottom-wonderful-recommend,.tuijian-wrap.tuijian-wrap-feed
-|http://m.81zw.com/scripts/common.js$script
-|https://www.mumu98.com/js/config.js$script
-|https://www.mumu98.com/js/indextop.js$script
-|http://static.hdslb.com/mstation/js/mobile/mobile.zip.js$script
-||taohuabbs.net##.a_cn,.ex1,[class^="a_"][class$="a_cb"],[align="center"],[style="margin-bottom:5px"],#diynavtop
-|https://gg251.com/js/*.js$script
-|http://m.qidian.com/$r@http://m.qidian.com@https://m.qidian.com@
-|https://m.qidian.com##.home-pure-ad,.slide-ul,.slide-container,#footerApp,.mybook-game-ad,.mybook-game-ad.mybook-ad-lazy
-mybook-game-ad
-|http://m.kkkkba.com/js/fumeiti.js$script
-|http://3g.ali213.net/js/data/3gcommon.js?r=*$script
-|http://m.qu.la/stylewap/js/wap.js$script
-|http://m.xs222.com/js/common.js$script
-|http://www.qwsy.com/script/jquery.lazyload.js$script
-|http://m.biqudao.com/js/common.js$script
-|http://m.quanshu.net/ssss/cookie.js
-||coolapk.com##.hidden-xs,.visible-xs
-|http://static.tianyaui.com/global/ty2.0/m/openApp/js/TY.ui.openApp_*.js?_v=$script
-|https://mjss.sinaimg.cn/wap/public/suda/201611031750/suda_log.min.js
-|https://static-alias-1.360buyimg.com/jzt/??libs/temp/2.0.1/_J.min.js,libs/temp/2.0.1/adcookie.min.js,libs/temp/2.0.1/conf.min.js,libs/temp/2.0.1/unslider.min.js,libs/temp/2.0.1/util-tpl-280-200-mobile-single_switch.min.js
-|http://w.xs8.cn###show_down
-|m.budejie.com###topBanner,#downApp,.list-xiangce-body
-|https://m.hupu.com##.m-app-info.hupu-m-fixed
-|https://m.douban.com##.banner_bg,.download-app,.related-more,#ThemesWidget
-|http://m.18183.com###slider,#cwdbflgg
-|http://m.buka.cn/n##.foot-main
-|http://m.yuedu.163.com##.m-dl-tip
-|http://m.shumilou.co/style/html5.js$script
-|http://m.fenghuaju.cc/##[id^="u_main_"]
-|http://m.kxs7.com/js/common.js
-|http://m.diyibanzhu.wang/js/wap.js
-|http://wap.26ksw.com##[id^="d"][id$="i"],[target="_self"]
-|http://code1.2chcn.net/*.js$script
