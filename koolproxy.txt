@@ -1,6 +1,6 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.3
-!x  -----update[rules]: 2017-4-25 20:42
+!x  -----update[rules]: 2017-4-26 08:59
 !x  -----update[video]: 2017-4-25 18:47
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo>
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -5182,7 +5182,7 @@
 ||576tv.com##DIV.imgad.adw642,DIV[class^="imgad adt"]
 ||57mh.com##.bd_960_90,.backToTop + div[style]
 ||58.com##.bban,.fcj_leftfix
-||591hx.com##div.banner,img[alt*="广告"]
+||591hx.com##div.banner,img[alt*="å¹¿å"]
 ||59imv.com##DIV[style^="width:"][style$="px;height:90px"]
 ||5imx.com###diy1,[width="166"],.ad3,.ad2
 ||5iyq.com##.top_l,.top_r,[class^="index_ad"],#pan1,#pan2,[style="margin-top:5px;overflow:hidden;"],.wp.a_t,.wp.a_h,.ad980,.close_form,.close_ad,#bottom_banner_div_out,#bottom_banner_img_div
@@ -6520,7 +6520,7 @@
 ||repaik.com##div.a_cn,DIV.a_mu,.a_pt,.a_pr
 ||rfidworld.com.cn##.rfidADClass,.indexBanner,#divLeftAd,#divAdPr1
 ||right.com.cn##div#diy1.area,div.a_p,div.a_pr,DIV.column.frame-1-c,div.wp.a_f,div.a_cn
-||rj.baidu.com##div#ader,div.mid-recommend,div.ad,dl.cl.xld
+||rj.baidu.com##div#ader,div.mid-recommend,div.ad,dl.cl.xld,.a_mu,.a_pt
 ||roboo.com##.footer-ads,.img-info01
 ||rom.7to.cn##div.ggtc_box
 ||romzhijia.net##.adbox,div#slideBox
@@ -8216,11 +8216,11 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://kikibt.$s@<script src="http://js3555.*</script>@@
 |http://kikibt.$s@<script src="http://js883.*</script>@@
 |http://kikibt.$s@<script type="text/javascript">;(function(O, url)*</script>@@
-|http://live.sportscn.com/js/commerical*.js$s@//顶部大广告项*var ShowLAd=true;@var ShowLAd=fasle;@
+|http://live.sportscn.com/js/commerical*.js$s@//é¡¶é¨å¤§å¹¿åé¡¹*var ShowLAd=true;@var ShowLAd=fasle;@
 |http://lives.l.ott.video.qq.com/livemsg*&ad_type=$s@<duration>??000</duration>@@
 |http://m.*.com/qijixs/wap.js|$s@var WapUnion =@@
-|http://m.*.com/style/style.js$s@//广告开�?function home_bottom()@function xxx()@
-|http://m.*.com/wap/*/wap.js|$s@//广�??���?function home_bottom()@function xxx()@
+|http://m.*.com/style/style.js$s@//å¹¿åå¼å§?function home_bottom()@function xxx()@
+|http://m.*.com/wap/*/wap.js|$s@//å¹¿å??¼å§?function home_bottom()@function xxx()@
 |http://m.*.com/wap/*/wap.js|$s@function index_top()*tongji()@function xxx()@
 |http://m.*.com/wap/*/wap.js|$s@function qijixs_*function qijixs_bottom()@function xxx()@
 |http://m.*.com/wap/*/wap.js|$s@function read_@@
@@ -8228,7 +8228,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://m.*/js/common.js|$s@function style_bottom()*var xiaoshuo_score@var xiaoshuo_score@
 |http://m.*/js/common.js|$s@function style_head(){*function fmt()@function xxx()@
 |http://m.*/js/common.js|$s@function style_head(){*function tj()@function xxx()@
-|http://m.*/js/wap.js|$s@//广告开�?function tj()@@
+|http://m.*/js/wap.js|$s@//å¹¿åå¼å§?function tj()@@
 |http://m.*/js/wap.js|$s@function nryhf@function xxx@
 |http://m.*/js/wap.js|$s@function qijixs_@function xxx@
 |http://m.*/scripts/common.js$s@function style_head()*function style_bottom()@function xxx()@
@@ -8251,7 +8251,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://m.afxfs.com/$s@var randoms@@
 |http://m.baoliny.com/js/wap.js$s@function yue1()*function tongji()@function xxx()@
 |http://m.biquge.$s@<script src='http://app.toutiao.hefei126.com:*'></script>@@
-|http://m.biquge.com.tw/wap/skin/wap.js$s@//广告?���?function skin_xuanfu()@function xxxx()@
+|http://m.biquge.com.tw/wap/skin/wap.js$s@//å¹¿å?¼å§?function skin_xuanfu()@function xxxx()@
 |http://m.biquge.tw/js/common.js$s@function dp(){*}@@
 |http://m.biqulou.net/js/common.js$s@function dp(){@function xxx(){@
 |http://m.bokon.net/$s@(navigator.userAgent.indexOf('UCBrowser') > -1@@
@@ -8276,7 +8276,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://m.kan7zw.com/wap/qijixs/wap.js$s@function sam_@function xxx_@
 |http://m.kanman.com/$s@<script type="text/javascript">if(typeof __ad==="undefined")*</script>@@
 |http://m.kb20.cc/Public/style/mstyle/js/jquery.base.js$s@function kbad?(){*}@@
-|http://m.kewaishu.net/ad1/wap.js$s@//广告开�?function all_bottom(){*}@@
+|http://m.kewaishu.net/ad1/wap.js$s@//å¹¿åå¼å§?function all_bottom(){*}@@
 |http://m.ldks.cc/$s@<script>;(function(){var d=(/UCBrowser/i.test(navigator.userAgent)*</script>@@
 |http://m.manhuatai.com/$s@<script type="text/javascript">if(typeof __ad==="undefined")*</script>@@
 |http://m.mpzw.com/$s@switch(?)@@
@@ -8291,7 +8291,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://m.shouyoutan.com/$s@var images=@@
 |http://m.shumilou.co/style/html5.js?v=$s@function ad_shouye(){*function tongji()@function xxx()@
 |http://m.sikushu.net/js/wap1.0.js$s@function mb_top()*function mb_tj()@function xxx()@
-|http://m.siluke.info/myapp/m.js$s@//广告开�?document.writeln("<script src='/myapp/xuanfu.js'></script>");@@
+|http://m.siluke.info/myapp/m.js$s@//å¹¿åå¼å§?document.writeln("<script src='/myapp/xuanfu.js'></script>");@@
 |http://m.sqsxs.com/js/wap.js$s@function _web8_top(){*function web8_fu2()@function xxxx()@
 |http://m.vodtw.com/$s@ads_codes@@
 |http://m.vv44.net/$s@rand.get = function ()@@
