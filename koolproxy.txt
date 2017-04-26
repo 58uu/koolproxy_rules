@@ -1,7 +1,7 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.3
-!x  -----update[rules]: 2017-4-26 08:59
-!x  -----update[video]: 2017-4-25 18:47
+!x  -----update[rules]: 2017-4-26 19:08
+!x  -----update[video]: 2017-4-26 18:59
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo>
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
 !x  -----------------------------------------------------------------------------------------------------------------
@@ -4891,7 +4891,7 @@
 |https://*.doubleclick.net/
 |http://qt.gtimg.cn/q=s_sh000001
 |http://zxpic.imtt.qq.com/$image
-||a.union.mi.com
+!||a.union.mi.com
 ||d.g.mi.com
 ||migc.g.mi.com
 ||migcreport.g.mi.com
