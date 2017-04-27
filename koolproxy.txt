@@ -1,6 +1,6 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.3
-!x  -----update[rules]: 2017-4-27 20:03
+!x  -----update[rules]: 2017-4-27 23:10
 !x  -----update[video]: 2017-4-26 18:59
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo>
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -8517,7 +8517,15 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://m.biqudao.com/js/common.js$script
 |http://m.quanshu.net/ssss/cookie.js
 |http://code1.2chcn.net/*.js$script
+|http://cbjs.baidu.com/js/m.js$script
 |https://tb1.bdstatic.com/??/tb/mobile/app_open_*.js$script
+|https://qzonestyle.gtimg.cn/qzone/biz/ac/comm/ver.*.js
+|http://m.autohome.com.cn/n##.homepage-focus.fn-mt
+|http://m.autohome.com.cn/*/*/$script
+|http://m.piaov.com/js/html.js$script
+|http://m.piaov.com/js/barner.js$script
+|http://cbjs.baidu.com/js/m.js$script
+|http://www.btbtt.co/view/js/*.min.js$script
 |http://yu.26ksw.com/
 |http://pl.26ksw.com/
 ||hnctsm.com
@@ -8545,6 +8553,6 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://m.yuedu.163.com##.m-dl-tip
 |http://m.fenghuaju.cc/##[id^="u_main_"]
 |http://wap.26ksw.com##[id^="d"][id$="i"],[target="_self"]
-|https://tieba.baidu.com##.tl_shadow.special-thread,.xiang-guan-tie,.bottom-wonderful-recommend,.tuijian-wrap.tuijian-wrap-feed
-|https://wapp.baidu.com##.tl_shadow.special-thread,.xiang-guan-tie,.bottom-wonderful-recommend,.tuijian-wrap.tuijian-wrap-feed
+|https://tieba.baidu.com##.tl_shadow.special-thread,.xiang-guan-tie,.bottom-wonderful-recommend,.tuijian-wrap.tuijian-wrap-feed,.arrow.arrow_right.arrow_line.arrow_position_right.top_ext_li,.list_item_wrapper.j_click_stats,.more_btn_package,.forum_recommend_c
+|https://wapp.baidu.com##.tl_shadow.special-thread,.xiang-guan-tie,.bottom-wonderful-recommend,.tuijian-wrap.tuijian-wrap-feed,.forum_recommend_c
 ||taohuabbs.net##.a_cn,.ex1,[class^="a_"][class$="a_cb"],[align="center"],[style="margin-bottom:5px"],#diynavtop
