@@ -1,17 +1,25 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.4
-!x  -----update[rules]: 2017-4-28 16:16
+!x  -----update[rules]: 2017-4-28 17:03
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
+!x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
 !x  -----------------------------------------------------------------------------------------------------------------
 |http://www.golangtc.com###ads
 |http://www.golangtc.com##.companel.panel-default
 ||tucao.tv##.x1_poster
-
+||cnscg.com##[id^="a_"],[id="portal_block_152"]
+||iask.sina.com.cn###closed_ad,.andy_baidu_adv,.sj_680x250
+||sportscn.com##[class$="ads"],[class^="ad"],[height="160"],[height="50"],.bnr,#topbanner
 !x  -----------------------------------------------------------------------------------------------------------------
 |http://www.80smp4.com/$r@http://www.80smp4.com@http://www.baidu.com@
 
 !x  -----------------------------------------------------------------------------------------------------------------
+||m.biquge.com.tw/wap/skin/wap.js$s@function topgg()*function skin_xuanfu()@function xxx()@@
 
-
+!x  -----------------------------------------------------------------------------------------------------------------
+|http://mm.anqu.com$script
+|http://static.iask.cn/m-v20*/js/common/qiye.data.min.js
+|http://static.iask.cn/v20*/js/new/qiye.data.min.js
+||yanpoly.com
 !x  -----------------------------------------------------------------------------------------------------------------
