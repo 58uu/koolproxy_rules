@@ -1,6 +1,6 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.4
-!x  -----update[rules]: 2017-4-28 17:00
+!x  -----update[rules]: 2017-4-29 10:00
 !x  -----update[video]: 2017-4-28 16:55
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -2924,7 +2924,6 @@
 |huacolor.com/wan/$script
 |http://m.733dm.net/skin/middle.js
 |http://m.733dm.net/skin/footer.js
-|http://*.com/gov/api.js
 |http://www.yangsheng.com/templates/yangsheng/js/_banner.js
 |http://js.gewuwen.com/
 |http://dm.gzpinda.com
@@ -7642,7 +7641,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 ||qqlubo.net##[id^="ad_"]
 ||news.mydrivers.com###hsb_go,#dangbei_down
 ||pcpop.com##.gg_box
-||av12zx.com##[id$="err"]
+||av12av.org##.heng,[id*="ad"],[id*="gg"],[src*="sinaimg.cn/large/"],[style*="height:50px;"],[href*="http://xz.go379.com/"]
 ||news.mydrivers.com###BAIDU_SSP__wrapper_u2886375_0
 |http://www.ithome.com##.close
 ||net767.com##[height="68"],table[height="252"],#table6
