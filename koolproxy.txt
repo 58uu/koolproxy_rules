@@ -1,6 +1,6 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.4
-!x  -----update[rules]: 2017-4-29 10:00
+!x  -----update[rules]: 2017-4-29 17:01
 !x  -----update[video]: 2017-4-28 16:55
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -6698,7 +6698,7 @@
 ||thisav.com##[src^="http://adserver.juicyads.com/adshow.php"],iframe[src^="http://syndication.exoclick.com/ads-"]
 ||thzbt.biz##[class^="a_"],[width="960"],.it618_firstad_flex,[style*="text-align:center;"]
 ||tianqi.com##[width="660"][height="60"]
-||tianshui.com.cn##[class="hs1 fl"],[src^="gg/"],#FlashID302,[data^="gg/"],[height="70"],[height="85"],[height="1780"],[height="55"],[src^="http://www.tianshui.com.cn/gg/"]
+||tianshui.com.cn##[class="hs1 fl"],[src^="gg/"],#FlashID302,[data^="gg/"],[src^="http://www.tianshui.com.cn/gg/"]
 ||tiantian.tv##.banner,.adbanner,.toprecomm,#recomApps
 ||tianya.cn##div[id$="banner_950_90"].banner-img-mt10,div[id*="_AD_"],div[class*="_AD_"],embed[src^="http://80"],div#travel_float,div#update.update,.ad-content,#bc_dsEbookMon,[id^="CL_banner_"]
 ||tianya.com##[class^="tybc-"]
