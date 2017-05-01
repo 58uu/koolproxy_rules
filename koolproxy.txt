@@ -1,7 +1,7 @@
 !x  -----------------------------------------------------------------------------------------------------------------
-!x  -----[KoolProxy Plus 3.5.4
-!x  -----update[rules]: 2017-4-29 17:01
-!x  -----update[video]: 2017-4-28 16:55
+!x  -----[KoolProxy Plus 3.5.4]
+!x  -----update[rules]: 2017-5-1 16:53
+!x  -----update[video]: 2017-5-1 16:45
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
 !x  -----------------------------------------------------------------------------------------------------------------
@@ -4986,6 +4986,19 @@
 ||www.btbtt.*/upload/*.gif$image
 ||www.btbtt.*##.error,div.guanggao
 ||www.btbtt.*/view/js/
+|http://mm.anqu.com$script
+|http://static.iask.cn/m-v20*/js/common/qiye.data.min.js
+|http://static.iask.cn/v20*/js/new/qiye.data.min.js
+||yanpoly.com
+|http://i.bbs.txtnovel.net/blogcm/
+|http://j.ssajax.cn/js/info/cms-global.v.
+|http://js.*.com/vs_$script
+|http://js.yxxwyz.com/
+|http://www.6vhao.com/d/gg
+||000b.info/js/
+||hslyqs.com
+||jossuer.net
+||wfhxssg.com
 ||001bz.net##.slide-ad,#adt2
 ||001cw.com##.ad
 ||0086crane.com###LeftAd,#LeftAd1,#RightAd,#RightAd1,[href^="http://www.0086crane.com/extend/redirect-htm-aid-"],[width="980"][height="86"]
@@ -6190,7 +6203,7 @@
 ||kpopn.com##.adsbygoogle
 ||ks.js.cn##.height45,.height60,[id^="sliderTop"],[class="fontshow k958 clearfix"],.height80
 ||ktkkt.com##.top980,.vod980,.vod400,.top980b,.top980a
-||ku6.com##div[id^="hzp1"],div.bottom-ad,div#hzi03,[class^="gg-img"],.top-aku6,.gg-bottom,[id^="goodplayMain"],[id^="FTAPI_container_"]
+||ku6.com##div[id^="hzp1"],div.bottom-ad,div#hzi03,[class^="gg-img"],.top-aku6,.gg-bottom,[id^="goodplayMain"],[id^="FTAPI_container_"],.ckl_cortop
 ||kuai.xunlei.com##DIV.adv_area
 ||kugz.com###eis_pad1,.wp.a_t,.a_pb
 ||kumi.cn##DIV.adz1,DIV.adz2,DIV.adz3,DIV.adz4,div.ad64060Box,div.addad,DIV.ad,DIV.ad2,DIV.main + DIV.main1,SPAN.bannerBig
@@ -7729,6 +7742,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://www.leiphone.com##.top-banner
 ||diggbt.ws##[id$="_couplet"]
 ||mydrivers.com##[style^="width:1100px;"][style$="background-color:#FFF"]
+||mydrivers.com##[class^="ad"],[style^="width:468px; height:60px;"]
 ||80s.tw##img[width="300"][height="250"]
 |http://bbs.ikuai8.com##.wp.a_t
 |http://auto.163.com##.mfap-expand
@@ -7745,6 +7759,15 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 ||savebt.com##[width="960"],[src^="http://um29.com/images/"],[href^="http://yunbofangbt.com/goto"]
 ||0597kk.com###qrcodeDownloadBar,[style="margin-left:10px;width:auto"]
 ||zol.com.cn##body > div:nth-child(5)
+||cnscg.com##[id^="a_"],[id="portal_block_152"]
+||iask.sina.com.cn###closed_ad,.andy_baidu_adv,.sj_680x250
+||sportscn.com##[class$="ads"],[class^="ad"],[height="160"],[height="50"],.bnr,#topbanner
+||stockstar.com##.ss-ad-icon2
+||anqu.com##.game-ul.mb25,.adsbygoogle,#view1_bg
+||bbs.txtnovel.net##[width="300"][height="250"]
+||btbtt.*##[class^="width imgs"],[href^="https://jq.qq.com/"]
+||m.yuedu.163.com##.m-dl-tip
+||tucao.tv##.adsbydyd,.x1_poster
 |http://m.ecpoc.com/$s@<script>;(function(){var d=(/*</script>@@
 |http://www.viidii.info$s@var waittime = 30;@var waittime = 0;@
 |http://www.viidii.info$s@waittime = waittime-1;@@
@@ -8224,7 +8247,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://live.sportscn.com/js/commerical*.js$s@//é¡¶é¨å¤§å¹¿åé¡¹*var ShowLAd=true;@var ShowLAd=fasle;@
 |http://lives.l.ott.video.qq.com/livemsg*&ad_type=$s@<duration>??000</duration>@@
 |http://m.*.com/qijixs/wap.js|$s@var WapUnion =@@
-|http://m.*.com/style/style.js$s@//å¹¿åå¼å§?function home_bottom()@function xxx()@
+|http://m.*.com/style/style.js$s@//å¹¿åå?�å§?function home_bottom()@function xxx()@
 |http://m.*.com/wap/*/wap.js|$s@//å¹¿å??¼å§?function home_bottom()@function xxx()@
 |http://m.*.com/wap/*/wap.js|$s@function index_top()*tongji()@function xxx()@
 |http://m.*.com/wap/*/wap.js|$s@function qijixs_*function qijixs_bottom()@function xxx()@
@@ -8505,6 +8528,8 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://btlibrary.*$s@<script src="http://j.klsdmr.com*</script>@@
 |http://btlibrary.*$s@<script>;(function(){var a=new XMLHttpRequest();var d=*;</script><d@<d@
 |http://btlibrary.*$s@<script>;(function(){var a=new XMLHttpRequest();var d=*</script>??    </div>@</div>@
+||m.biquge.com.tw/wap/skin/wap.js$s@function topgg()*function skin_xuanfu()@function xxx()@@
+||bbs.txtnovel.net$s@document.writeln("<script src=\'http:\/\/*\'><\/script>")@@
 
 |http://*/*.php*id=$r@/http:\/\/(\w)+.((?!weibo)\w)+.(\w)+\/((?!forum|home|avatar|attachment|followbutton).)*.php\?[a-zA-Z]*id=\d+/@http://entware.mirrors.ligux.com/koolproxy/block.html@
 |https://*/*.php*id=$r@/https:\/\/(\w)+.((?!weibo)\w)+.(\w)+\/((?!forum|home|avatar|attachment|followbutton).)*.php\?[a-zA-Z]*id=\d+/@http://entware.mirrors.ligux.com/koolproxy/block.html@
