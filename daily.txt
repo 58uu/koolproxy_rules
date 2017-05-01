@@ -1,41 +1,19 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.4]
-!x  -----update[rules]: 2017-4-29 9:46
+!x  -----update[rules]: 2017-5-1 16:53
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
 !x  -----------------------------------------------------------------------------------------------------------------
 |http://www.golangtc.com###ads
 |http://www.golangtc.com##.companel.panel-default
-||tucao.tv##.x1_poster
-||cnscg.com##[id^="a_"],[id="portal_block_152"]
-||iask.sina.com.cn###closed_ad,.andy_baidu_adv,.sj_680x250
-||sportscn.com##[class$="ads"],[class^="ad"],[height="160"],[height="50"],.bnr,#topbanner
-||stockstar.com##.ss-ad-icon2
-||anqu.com##.game-ul.mb25,.adsbygoogle,#view1_bg
-||bbs.txtnovel.net##[width="300"][height="250"]
-||btbtt.*##[class^="width imgs"],[href^="https://jq.qq.com/"]
-||m.yuedu.163.com##.m-dl-tip
-||mydrivers.com##[class^="ad"],[style^="width:468px; height:60px;"]
-||tucao.tv##.adsbydyd
-||ku6.com##.ckl_cortop
+
 !x  -----------------------------------------------------------------------------------------------------------------
 |http://www.80smp4.com/$r@http://www.80smp4.com@http://www.baidu.com@
+
 !x  -----------------------------------------------------------------------------------------------------------------
-||m.biquge.com.tw/wap/skin/wap.js$s@function topgg()*function skin_xuanfu()@function xxx()@@
-||bbs.txtnovel.net$s@document.writeln("<script src=\'http:\/\/*\'><\/script>")@@
+
 !x  -----------------------------------------------------------------------------------------------------------------
-|http://mm.anqu.com$script
-|http://static.iask.cn/m-v20*/js/common/qiye.data.min.js
-|http://static.iask.cn/v20*/js/new/qiye.data.min.js
-||yanpoly.com
-|http://i.bbs.txtnovel.net/blogcm/
-|http://j.ssajax.cn/js/info/cms-global.v.
-|http://js.*.com/vs_$script
-|http://js.yxxwyz.com/
-|http://www.6vhao.com/d/gg
-||000b.info/js/
-||hslyqs.com
-||jossuer.net
-||wfhxssg.com
+||qiqiyii.com
+|http://nl.rcd.iqiyi.com/cro
 !x  -----------------------------------------------------------------------------------------------------------------
