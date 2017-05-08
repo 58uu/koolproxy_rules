@@ -8743,6 +8743,10 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://m.quanshu.net/ssss/cookie.js
 |http://code1.2chcn.net/*.js$script
 |https://tb1.bdstatic.com/??/tb/mobile/app_open_*.js$script
+||ww4.sinaimg.cn/large/$image
+||img.yingshidiguo.cn/ad/$image
+||image.online2019.com/*/$image
+|http://s1.hiapk.com/$script
 |http://yu.26ksw.com/
 |http://pl.26ksw.com/
 ||hnctsm.com
@@ -8761,6 +8765,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://m.qidian.com/$r@http://m.qidian.com@https://m.qidian.com@
 |https://m.qidian.com##.home-pure-ad,.slide-ul,.slide-container,#footerApp,.mybook-game-ad,.mybook-game-ad.mybook-ad-lazy,.book-game-ad
 ||coolapk.com##.hidden-xs,.visible-xs
+||y4dg.cc##.a_mu
 |http://w.xs8.cn###show_down
 |m.budejie.com###topBanner,#downApp,.list-xiangce-body
 |https://m.hupu.com##.m-app-info.hupu-m-fixed
@@ -8768,6 +8773,7 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://m.18183.com###slider,#cwdbflgg
 |http://m.buka.cn/n##.foot-main
 |http://m.yuedu.163.com##.m-dl-tip
+|http://www.zuanke8.com###imageurl87
 |http://m.fenghuaju.cc/##[id^="u_main_"]
 |http://wap.26ksw.com##[id^="d"][id$="i"],[target="_self"]
 |https://tieba.baidu.com##.tl_shadow.special-thread,.xiang-guan-tie,.bottom-wonderful-recommend,.tuijian-wrap.tuijian-wrap-feed
