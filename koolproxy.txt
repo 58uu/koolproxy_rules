@@ -1,6 +1,6 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.5]
-!x  -----update[rules]: 2017-5-8 18:40
+!x  -----update[rules]: 2017-5-9 13:00
 !x  -----update[video]: 2017-5-4 00:28
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -8742,6 +8742,8 @@ xsbashi.com#ght="345"],div.ad,div[style="MARGIN: 3px; WIDTH: 360px; FLOAT:right;
 |http://m.biqudao.com/js/common.js$script
 |http://m.quanshu.net/ssss/cookie.js
 |http://code1.2chcn.net/*.js$script
+http://wap.xxbiquge.com/js/common.js$script
+http://m.biquge.cc/js/index.js$script
 |https://tb1.bdstatic.com/??/tb/mobile/app_open_*.js$script
 ||ww4.sinaimg.cn/large/$image
 ||img.yingshidiguo.cn/ad/$image
