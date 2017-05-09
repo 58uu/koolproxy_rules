@@ -1,12 +1,14 @@
 !x  -----------------------------------------------------------------------------------------------------------------
-!x  -----[KoolProxy Plus 3.5.5]
-!x  -----update[rules]: 2017-5-5 1:30
+!x  -----[KoolProxy Plus 3.5.6]
+!x  -----update[rules]: 2017-5-10 1:11
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
 !x  -----------------------------------------------------------------------------------------------------------------
 |http://www.golangtc.com###ads
 |http://www.golangtc.com##.companel.panel-default
+||book.qidian.com##a[style="display: block"]
+||book.qidian.com##a[style="display: inline;"]
 !x  -----------------------------------------------------------------------------------------------------------------
 |http://www.80smp4.com/$r@http://www.80smp4.com@http://www.baidu.com@
 !x  -----------------------------------------------------------------------------------------------------------------
@@ -14,5 +16,5 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 ||qiqiyii.com
 |http://nl.rcd.iqiyi.com/cro
-
+||niuxgame77.com
 !x  -----------------------------------------------------------------------------------------------------------------
