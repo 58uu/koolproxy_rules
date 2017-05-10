@@ -1,7 +1,7 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.6]
-!x  -----update[rules]: 2017-5-10 01:14
-!x  -----update[video]: 2017-5-10 01:11
+!x  -----update[rules]: 2017-5-10 00:58
+!x  -----update[video]: 2017-5-4 00:28
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -9395,8 +9395,6 @@
 !x  ----------------------------------------------####mobile rules####----------------------------------------------------------
 |http://3g.ali213.net/js/data/3gcommon.js?r=*$script
 |http://code1.2chcn.net/*.js$script
-|http://wap.xxbiquge.com/js/common.js$script
-|http://m.biquge.cc/js/index.js$script
 |http://m.18183.com###slider,#cwdbflgg
 |http://m.81zw.com/scripts/common.js$script
 |http://m.biqudao.com/js/common.js$script
