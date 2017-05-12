@@ -1,6 +1,6 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.6]
-!x  -----update[rules]: 2017-5-12 00:23
+!x  -----update[rules]: 2017-5-12 15:10
 !x  -----update[video]: 2017-5-10 23:17
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
@@ -9407,6 +9407,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://m.quanshu.net/ssss/cookie.js
 |http://m.shumilou.co/style/html5.js$script
 |http://m.xs222.com/js/common.js$script
+|https://ubmcmm.baidustatic.com/media/v*/$image
+|https://jshao.haolepic.com/haoxxoo/*.js$script
+|http://110.34.227.5/ad/*.js$script
+|http://44zbzb.com/js/$script
+|http://adv.js.vvstatic.com/top.js
+||img.playv2.com/advertising/*/$image
 |http://m.yuedu.163.com##.m-dl-tip
 |http://static.hdslb.com/mstation/js/mobile/mobile.zip.js$script
 |http://static.tianyaui.com/global/ty2.0/m/openApp/js/TY.ui.openApp_*.js?_v=$script
@@ -9426,8 +9432,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |https://tieba.baidu.com$s@class="tl_shadow ?????????? "@style="display:none"@
 |https://wapp.baidu.com##.tl_shadow.special-thread,.xiang-guan-tie,.bottom-wonderful-recommend,.tuijian-wrap.tuijian-wrap-feed
 |https://wapp.baidu.com$s@class="tl_shadow ?????????? "@style="display:none"@
+|https://tieba.baidu.com$s@class="??????????  clearfix"@style="display:none"@
 |https://www.mumu98.com/js/config.js$script
 |https://www.mumu98.com/js/indextop.js$script
 |m.budejie.com###topBanner,#downApp,.list-xiangce-body
+|http://email.v2dizhi.at.gmail.com.2psv.space##.side-adv-img,.index-advertise.v-container.clearfix,.side-adv-btn-cls
 ||coolapk.com##.hidden-xs,.visible-xs
 ||taohuabbs.net##.a_cn,.ex1,[class^="a_"][class$="a_cb"],[align="center"],[style="margin-bottom:5px"],#diynavtop
