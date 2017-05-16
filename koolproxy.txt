@@ -1,7 +1,7 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.7]
-!x  -----update[rules]: 2017-5-14 16:00
-!x  -----update[video]: 2017-5-14 17:04
+!x  -----update[rules]: 2017-5-15 20:00
+!x  -----update[video]: 2017-5-15 22:23
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -7305,7 +7305,6 @@ remenxs.com##div[class^="yd_ad"],div[class^="ml_ad"],div.sk1,div[class^="xsad_"]
 renren.com##.wp-rrzm-popup
 renrencd.com##div.duilian,div[style^="width:960px;height:90px;"]
 renwai.ren##div.context_t,div.ad,div.textwidget div[class^="forum-201"]:first-child
-repaik.com##div.a_cn,DIV.a_mu,.a_pt,.a_pr
 rfidworld.com.cn##.rfidADClass,.indexBanner,#divLeftAd,#divAdPr1
 right.com.cn##div#diy1.area,div.a_p,div.a_pr,DIV.column.frame-1-c,div.wp.a_f,div.a_cn,.a_mu,.a_pt
 rj.baidu.com##.entrance
@@ -8425,6 +8424,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |https://m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 |https://nba.hupu.com##div[class^="nba-ad"]
 |https://plus.googleapis.com^*/widget/render/comments?$subdocument,domain=youtube.com
+||https://repaik.com##div.a_cn,DIV.a_mu,.a_pt,.a_pr
 |https://static.criteo.net/js/ld/publishertag.js
 !|https://tieba.baidu.com##.iframe_wrapper.clearfix
 !|https://tieba.baidu.com##.l_banner.banner_wangmeng_theme
