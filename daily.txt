@@ -1,6 +1,6 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.7]
-!x  -----update[rules]: 2017-5-17 21:26
+!x  -----update[rules]: 2017-5-18 22:15
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -10,10 +10,33 @@ www.golangtc.com##.companel.panel-default
 book.qidian.com##a[style="display: block"]
 book.qidian.com##a[style="display: inline;"]
 v.yinyuetai.com##.ad_videoCommentTop
+mxroom.com##.a_cn
+31wxw8.com##.content_ad,.ggad,.adsgg,.ad250left,.bdad
+lszhibo.com##DIV.ggtop,DIV.floatAD,[name="thegg"]
+sports.le.com###live-diversion
+jdbbs.com##[height="80"]
+nb40.com##[class="ui-title"]
+wnacg.org##[class^="couplet couplet"]
 !x  -----------------------------------------------------------------------------------------------------------------
 |http://www.80smp4.com/$r@http://www.80smp4.com@http://www.baidu.com@
+|http://www.dilidili.wang/$s@<script type="text/javascript">WRITE_xinxi_ad*</script>@@
+|http://www.banyungong.org/scripts/ajax.js$s@function ShowSG*function ShowFMT(name)@function xxx(name)@
+||btbit.net/$s@<script src="http://j.qiqivv.com*</script>@@
+||btbit.net/$s@$s@var d=/(UCBrowser|QQBrowser)/i.test@@
+||360zhibo.com/zhibo$s@|1000|@|0|@
+||lszhibo.com/zhibo.html$s@setTimeout('c_video()', 10000);@setTimeout('c_video()', 1000);@
+||tiantianzhibo.com/player/ck/ck.php$s@|1000|@|0|@
+|http://diggbt.$s@var d=/(UCBrowser|QQBrowser)/i.test@@
 !x  -----------------------------------------------------------------------------------------------------------------
 !\/\/([^\.\/]+\.){3}[^\.\/]+\/videos\/other\/([^\/]+\/){3}.+\.f4v/
 !x  -----------------------------------------------------------------------------------------------------------------
-||niuxgame77.com
+||lieqitianxia.cn
+||600ad.com
+||qxjdlf.com
+|http://m.wanren99.com/js/jstest/longteng.js
+||qzdfc.com
+||thxnr.com
+||sonomoyo.com
+||nb40.com/js/foot.js
+|http://m.520xs.la/js/xf.js
 !x  -----------------------------------------------------------------------------------------------------------------
