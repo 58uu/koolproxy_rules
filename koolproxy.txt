@@ -1,6 +1,6 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.7]
-!x  -----update[rules]: 2017-5-21 21:11
+!x  -----update[rules]: 2017-5-23 00:31
 !x  -----update[video]: 2017-5-22 00:31
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
@@ -5964,6 +5964,7 @@ abcsee.net##.adsbygoogle,.adz,.adhtml,.adhtmlss,.main.myset
 abcsub.com##div#ad6cn,ins.adsbygoogle
 ac.qq.com##div.mod-ad-full,div#thirdAds,div.in-show-wr.ui-wm.ui-mb40,li.main_ad_top,li.main_ad_bottom,.in-top-ad-wr
 acfun.cn###bd_ad1
+acfun.cn###ad-header
 acfun.com##DIV.ad,div#ad-player-view
 acfun.tudou.com##.ad,#ad-comment,#ad-player-view
 acfun.tv##DIV.ad.ad-bottom,DIV.ad.ad-top,div#ad-player-view,div.ad.ad-right-top,a[href^="/ad_redirect.aspx?id="],div#ad-b,div#ad-c,div#ad-d,.adframe
@@ -6210,6 +6211,7 @@ bxwx9.org##[class^="pagead_"]
 byfen.com##.fixed-bottom
 byhh.org##DIV#ad_tool
 bz.moe.pm##.ad
+book.qidian.com##a[style="display: block"],a[style="display: inline;"]
 c114.net##img[src^="images_a/"],embed[src^="images_a/"],img[src^="http://www.c114.net/ftth/images_a/"],embed[src^="images/c114/ad_"],[src^="http://bbs.c114.net/data/attachment/common/cf/"],div[class^="a_cu_"],.barrage_ad,.tab.ad2
 c7sky.com##.adsbygoogle,A.ga
 caibaojian.com##.avatar,.textwidget
@@ -7677,6 +7679,7 @@ vovokan.com##DIV.ad_heng
 vpser.net##.ab_textlink1,.ab_pip
 vr186.com##a.infotextkey > img
 vtale.org##div.ad
+v.yinyuetai.com##.ad_videoCommentTop
 w3cplus.com###content-ad1,#block-block-33,#block-block-32,.ct-ad-article
 w3p.la##iframe
 w6g7.com##.ads_box,.a[href^="/redirect"]
