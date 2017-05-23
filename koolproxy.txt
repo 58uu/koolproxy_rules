@@ -1,7 +1,7 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.7]
-!x  -----update[rules]: 2017-5-23 00:31
-!x  -----update[video]: 2017-5-22 00:31
+!x  -----update[rules]: 2017-5-23 17:25
+!x  -----update[video]: 2017-5-23 17:08
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -3251,7 +3251,6 @@
 |https://btrace.qq.com^
 |https://content.googleapis.com/youtubei/*/log_interaction?
 |https://dp3.qq.com/qqcom/
-|https://fex.bdstatic.com/hunter/alog/
 |https://fp.fraudmetrix.cn/fp/clear.png?
 |https://googleads.g.doubleclick.net/
 |https://googleads.g.doubleclick.net/pagead/ads?ad_block^
@@ -9244,8 +9243,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://zlbir.b0.upaiyun.com/playerk/player.xml$s@<flashvars>*</flashvars>@<flashvars>{l->http://zlbir.b0.upaiyun.com/playerk/null.png}{d->http://zlbir.b0.upaiyun.com/playerk/null.png}{t->0}</flashvars>@
 |https://*/*.php*id=$r@/https:\/\/(\w)+.((?!weibo)\w)+.(\w)+\/((?!forum|home|avatar|attachment|followbutton).)*.php\?[a-zA-Z]*id=\d+/@http://entware.mirrors.ligux.com/koolproxy/block.html@
 |https://pos.baidu.com/*?di=943217&dri=0&dis=0&dai=1$s@var secs =10;@var secs =0;@
-|https://tieba.baidu.com$s@<div class="firework-wrap">@<div style="display:none">@
-|https://tieba.baidu.com$s@class="region_bright my_app">@style="display:none">@
 |https://tieba.baidu.com/p/$s@<div class="l_post l_post_bright j_l_post clearfix ?????????? "@<div style="display:none"@
 |https://zdfans.ctfile.com/$s@<script src='http:\/\/js1210.yongkang6.com:81*'><\/script>@@
 ||00sy.com/js/00sy.js$s@function tongji()*function fmt()@function xxx()@
@@ -9430,50 +9427,3 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zimuzu.tv/$s@function(img_url,link)@@
 ||zol.com.cn$s@<script>adsLoad(*/script>@@
 ||zol.com.cn$s@<script>write_ad(*/script>@@
-!x  ----------------------------------------------####mobile rules####----------------------------------------------------------
-|http://3g.ali213.net/js/data/3gcommon.js?r=*$script
-|http://code1.2chcn.net/*.js$script
-|http://m.18183.com###slider,#cwdbflgg
-|http://m.81zw.com/scripts/common.js$script
-|http://m.biqudao.com/js/common.js$script
-|http://m.biquge.cc/js/index.js$script
-|http://m.buka.cn/n##.foot-main
-|http://m.diyibanzhu.wang/js/wap.js
-|http://m.fenghuaju.cc/##[id^="u_main_"]
-|http://m.kkkkba.com/js/fumeiti.js$script
-|http://m.kxs7.com/js/common.js
-|http://m.qidian.com/$r@http://m.qidian.com@https://m.qidian.com@
-|http://m.qu.la/stylewap/js/wap.js$script
-|http://m.quanshu.net/ssss/cookie.js
-|http://m.shumilou.co/style/html5.js$script
-|http://m.xs222.com/js/common.js$script
-|https://ubmcmm.baidustatic.com/media/v*/$image
-|https://jshao.haolepic.com/haoxxoo/*.js$script
-|http://110.34.227.5/ad/*.js$script
-|http://44zbzb.com/js/$script
-|http://adv.js.vvstatic.com/top.js
-||img.playv2.com/advertising/*/$image
-|http://m.yuedu.163.com##.m-dl-tip
-|http://static.hdslb.com/mstation/js/mobile/mobile.zip.js$script
-|http://static.tianyaui.com/global/ty2.0/m/openApp/js/TY.ui.openApp_*.js?_v=$script
-|http://w.xs8.cn###show_down
-|http://wap.26ksw.com##[id^="d"][id$="i"],[target="_self"]
-|http://wap.xxbiquge.com/js/common.js$script
-|http://www.qwsy.com/script/jquery.lazyload.js$script
-|http://yu.26ksw.com/
-|https://gg251.com/js/*.js$script
-|https://m.douban.com##.banner_bg,.download-app,.related-more,#ThemesWidget
-|https://m.hupu.com##.m-app-info.hupu-m-fixed
-|https://m.qidian.com##.home-pure-ad,.slide-ul,.slide-container,#footerApp,.mybook-game-ad,.mybook-game-ad.mybook-ad-lazy,.book-game-ad
-|https://mjss.sinaimg.cn/wap/public/suda/201611031750/suda_log.min.js
-|https://static-alias-1.360buyimg.com/jzt/??libs/temp/2.0.1/_J.min.js,libs/temp/2.0.1/adcookie.min.js,libs/temp/2.0.1/conf.min.js,libs/temp/2.0.1/unslider.min.js,libs/temp/2.0.1/util-tpl-280-200-mobile-single_switch.min.js
-|https://tb1.bdstatic.com/??/tb/mobile/app_open_*.js$script
-!|https://tieba.baidu.com##.tl_shadow.special-thread,.xiang-guan-tie,.bottom-wonderful-recommend,.tuijian-wrap.tuijian-wrap-feed
-|https://tieba.baidu.com$s@class="tl_shadow ?????????? "@style="display:none"@
-|https://wapp.baidu.com##.tl_shadow.special-thread,.xiang-guan-tie,.bottom-wonderful-recommend,.tuijian-wrap.tuijian-wrap-feed
-|https://wapp.baidu.com$s@class="tl_shadow ?????????? "@style="display:none"@
-|https://www.mumu98.com/js/config.js$script
-|https://www.mumu98.com/js/indextop.js$script
-|m.budejie.com###topBanner,#downApp,.list-xiangce-body
-||coolapk.com##.hidden-xs,.visible-xs
-||taohuabbs.net##.a_cn,.ex1,[class^="a_"][class$="a_cb"],[align="center"],[style="margin-bottom:5px"],#diynavtop
