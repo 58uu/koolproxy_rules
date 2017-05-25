@@ -1,7 +1,7 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
-!x  -----[KoolProxy Plus 3.5.7]
-!x  -----update[rules]: 2017-5-25 00:14
-!x  -----update[video]: 2017-5-24 23:46
+!x  -----[KoolProxy Plus 3.5.8]
+!x  -----update[rules]: 2017-5-25 23:28
+!x  -----update[video]: 2017-5-25 23:46
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -1581,6 +1581,7 @@
 |http://gimg1.bitautoimg.com/ResourceFiles/0/3/170/201$image
 |http://gp.jstv.com
 |http://grapes.baiapk.com/show?id=
+|http://gt.duowan.com/api/g?loc=*banner|
 |http://guba.eastmoney.com/js/temp_share.js$script
 |http://h.*.com/?q=*|*
 |http://hackp.com/facai/$script
@@ -1840,6 +1841,7 @@
 |http://l.821314.net/topjs/$script
 |http://l.minisplat.cn$script
 |http://la.qshxc.com/?id=
+|http://libs.baidu.com/jquery/1.8.3/jquery.min.js
 |http://life.shangdu.com/comiis_ad/$image
 |http://list.video.baidu.com/pc_static/promotion/
 |http://liulanmi.com/labs/x/2345.jpg$image
@@ -1871,6 +1873,8 @@
 |http://m.17173.com/resource/image/m/down17173app.png$image
 |http://m.19lou.tw/html/19lie.js
 |http://m.20xs.cc/qirui/s/tss.js
+|http://m.23zw.me/js/mf.js?v=
+|http://m.23zw.me/sda/
 |http://m.3dllc.com/js/chkBrowserm.js
 |http://m.4020.la/static/script.js
 |http://m.4020.la/z/
@@ -3538,8 +3542,6 @@
 ||6789.net$third-party
 ||6789.so$third-party
 ||67lm.com$third-party
-||67uc.com/67ucgg
-||67uc.com/kf/
 ||685wo.com
 ||688900.net/js/ok/$script
 ||6dad.com
@@ -4304,6 +4306,7 @@
 ||guoshennet.com
 ||gw.youmi.net
 ||gydag.com
+||gyrtg.com
 ||gythsg.com
 ||gzktpf.com
 ||gzpinda.com
@@ -4590,6 +4593,7 @@
 ||kumeng.cc$third-party
 ||kuqi.com
 ||kusheng.wang/img/hd.png
+||kuwoyy.com
 ||l.qq.com/lview?c=www&
 ||langchars.com
 ||lc365.net/movie/js/all.js
@@ -4652,7 +4656,6 @@
 ||lyrymy.com
 ||lytubaobao.com
 ||lzmm8.com
-||m.69shu.com/js/$script
 ||m.baidu.com/cpro.php$third-party
 ||m.bookben.com/js/m/wap.js
 ||m.diyibanzhu.wang/js/wap.js
@@ -4789,6 +4792,7 @@
 ||onewhee.com^$third-party
 ||onlinedown.net/newhuagg/sort_pic_20_20.js$script
 ||open.show.qq.com/cgi-bin/qqshow_user_gdt_ad?ad
+||openload.co/assets/js/script$script
 ||optaim.com
 ||oq68.com
 ||ou188.com
@@ -5722,6 +5726,7 @@
 2345.com##div#ivy-taobao,div.baiduHotWordsR.mt10.clearfix,div.ivyBaidu,div.ivy240.mt10,div.ivy940.mt10,div.ivy940_82.mt10,div#corner_div,div#J_cj,div#J_tip_stopXP,div#tools-gameTmp,div.tip_stopXP,div.J_topicBanner,div.mod.event1.event1-hasList,div#globalTopbannerContent,div.headIvy230,div#J_acts12_bfix,div#BAIDU_DSPUI_FLOWBAR,#topHf,#secondFlashAds,.ad_countdown,.baiduSearchIvy,.rowIvy,.adMainBg_1440,.s11-logowall,.activity-skin-trig,.item-lvy,.adMainBg
 234qyl.com##[class^="ads"],#player-advertising
 23txt.com##.con_ad,[height="90"]
+23zw.me###tbad
 23zw.me##div#ptopad,div#pbtad
 2500sz.com##div.tl-focus,div#wx,a[href="http://www.szaist.cn/zhuanti/lama/?mcgg"],div[class^="aline-"],div[class^="banner-"],div#js_ads_banner_top_slide,DIV.tl,embed[src^="http://www.2500sz.com/site/"]
 25xt.com###baidu680
@@ -5856,19 +5861,14 @@
 66496688.com##[width="1000"][height="100"],[width="1000"][height="80"]
 6665.com##div#fgdiy01,div#fgdiy09,div#fgdiy10,div#fgdiy14,div#fgdiy24,div#fgdiy49,a.mb-theme,.a_pb
 666ccc.com##DIV#main > DIV.bi2,SPAN#indexads2
-66bts.cn,66btv.com##div.a_fr.a_cb,div.wp.a_f,div.bm.a_c,div.a_pt,div.a_pb,ins.adsbygoogle
 66fxw.com##div.conent
 66rd.cn##.mst_lamu_main,.a_cb,[id^="comiis_xizi_gg"],.a_cn,#comiis_itab,#comiis_itab02,.a_p,.a_f,#diynavtop
 66wz.com##.rblock.shopping,.ad,.ads,.shop,#topad
 66yp.cc###down_box{display: block!important;display: block}
 66yp.cc##.adsbygoogle
 6789.com##.mm-sm26850,.billing,.mm-sm22060,#northeast-flash
-67uc.com##div.a_mu
-688900.net##.code950
-69shu.com##.weixin-cookie,[class^="app_download_ad"]
 6hck.co##[class^="shade_layer"],#f_huodong,[id$="_top"],.simulate_bet_ad,#lhc_bottom_columns_ad,.shck_APPDownload,[id^="lhck_"]
 6kk.tv###sponsorAdDiv
-6park.com###head_ad,[href^="http://list.6park.com/parks/out.php?perm="],[href^="http://list1.6park.com/parks/out.php?perm="],[href^="http://list.popo8.com/parks/out.php?perm="],[height="60"]
 6pingm.com##[class^="ad"]
 6vhao.net###gg300,[class^="k"]
 6yyw.com##.a_mu,.a_pt,.a_pb,.a_pr
@@ -8777,6 +8777,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://m.bxwx.us/wap.js$s@function tj(id){*function _BottomAll()@function xxx()@
 |http://m.bxwx.us/wap.js$s@function _js_xf()*function _BottomAll()@function xxx()@
 |http://m.bxwx8.org/mjs/wap.js$s@function bx_top()*function bxread()@function xxx()@
+|http://m.bubulai.com/js/common.js$s@function bubh()*function game()@function xxx()@
 |http://m.chenhuia.com/js/foot.js
 |http://m.chenhuia.com/js/hfz.js
 |http://m.chenhuia.com/js/hfzx.js
@@ -9045,6 +9046,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://www.bxwx.la/js/xiaoshuo.js$s@function list1(){*function footer()@function xxx()@
 |http://www.bxwx9.org/pagebottom.js$s@<script type=\'text/javascript\' src=\'http://bx.kkcaicai.com*/script>@@
 |http://www.byhh.org/$s@<script type="text/javascript">??var isopen =*</script>@@
+|http://www.bubulai.com/js/common.js$s@function g300()*function g960@function xxx@
 |http://www.cartoonmad.com/*.html$s@<script type="text/javascript" src="https://apis.google.com/js/plusone.js">*</script>@
 |http://www.cctv5bo.com/play.php?aid=$s@t=setTimeout("DaoJiShi()",1000)@t=setTimeout("DaoJiShi()",0)@
 |http://www.chinavoa.com/video-$s@l:'/statics/images/*t:'7',@l:'',r:'',t:'0',@
@@ -9268,7 +9270,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||2kandy.com$s@<script src="http://js6964.zzbaowen.com*</script>@@
 ||52dongm.duapp.com/play/$s@t:'15',*loaded:'loadedHandler'@t:'0', l:'',e:'0',p:'1',l:'',loaded:'loadedHandler'@
 ||576tv.com/Api/VideoPlayer/GetXml$s@<ads>/Content/swfs/*.swf|@<ads>@
-||6park.com/$s@var how_many_ads@@
 ||630book.la/wap.js$s@var isUC=/UCBrowser/i.test*function _BottomAll()@function xxx()@
 ||7958.com.cn/download$s@.size() == 0@.size() == 20@
 ||7958.com.cn/download$s@onclick="javascript:showcode();@onclick="javascript:codefunc();@
