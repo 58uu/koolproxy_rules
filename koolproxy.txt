@@ -1,6 +1,6 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.8]
-!x  -----update[rules]: 2017-5-25 23:28
+!x  -----update[rules]: 2017-5-29 01:31
 !x  -----update[video]: 2017-5-26 22:50
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
@@ -3932,6 +3932,7 @@
 ||cartekj.com
 ||cayanfang.com
 ||cb.baidu.com
+||cbjs.baidu.com^
 ||ccav5.com/static/js/gTool.js
 ||cccrir.com
 ||ccidy.com/template/456tv/ads/
@@ -4046,7 +4047,7 @@
 ||crjshop.com
 ||crl.microsoft.com
 ||csad.cc^
-||csbew.com$domain=~lbldy.com|~afp.csbew.com|~xoyo.com|~51feels.com
+||csbew.com^$third-party,$domain=~lbldy.com|~afp.csbew.com|~xoyo.com|~51feels.com
 ||csqiulong.com
 ||cstoa.com
 ||csyymp4.com
@@ -4403,7 +4404,7 @@
 ||ifengimg.com/*/mobile_inice_v1.js
 ||ifengimg.com/6e0e559e19f25e8b/
 ||ifengimg.com/ifeng/mif/mobile_inice_
-||ifengimg.com/ifeng/sources/
+!||ifengimg.com/ifeng/sources/
 ||ifengimg.com/mappa/
 ||ifengimg.com/sta_collection*.js|$script
 ||ihualun.com$third-party
