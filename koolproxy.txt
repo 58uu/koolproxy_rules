@@ -1,6 +1,6 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.8]
-!x  -----update[rules]: 2017-5-29 01:31
+!x  -----update[rules]: 2017-5-30 19:19
 !x  -----update[video]: 2017-5-30 12:17
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
@@ -231,16 +231,16 @@
 @@||9.ujinbi.com/AD/
 @@||api.io.mi.com
 @@||api.qingmang.mobi
-@@||baidustatic.com$domain=xoyo.com
+@@||http://baidustatic.com$domain=xoyo.com
 @@||battle.net
 @@||bdstatic.com/tb/cms/ngmis/adsense/file_$image
 @@||captcha.qq.com
 @@||chinatelecom.com.cn
 @@||chuiyao.com/static/js*/pinglun.js?v=
 @@||cntv.cn/nettv/adp/online
-@@||cpro.baidu.com/cpro/ui/baiduLoader_as3.swf
-@@||cpro.baidu.com/cpro/ui/uijs.php?$domain=www.400gb.com|www.pipipan.com
-@@||cpro.baidustatic.com/cpro/ui/f.js$script,domain=www.400gb.com|www.pipipan.com|colayun.com|coladrive.com
+@@||http://cpro.baidu.com/cpro/ui/baiduLoader_as3.swf
+@@||http://cpro.baidu.com/cpro/ui/uijs.php?$domain=www.400gb.com|www.pipipan.com
+@@||http://cpro.baidustatic.com/cpro/ui/f.js$script,domain=www.400gb.com|www.pipipan.com|colayun.com|coladrive.com
 @@||download.mokeedev.com/ad-dl.php
 @@||ecitic.com
 @@||eiv.baidu.com/fcimg
@@ -1429,7 +1429,8 @@
 |http://cop.my
 |http://copy.ousns$image
 |http://count.vrs.sohu.com/crossdomain.xml
-|http://cpro.
+!|http://cpro.
+|http://cpro.baidustatic.com/cpro/
 |http://cpu.baidu.com/js/cb.js
 |http://cpv.channelray
 |http://cr.15hn.net:8818/lb.asp
@@ -3283,6 +3284,14 @@
 |https://youtube.com/ptracking?
 |https://youtubei.youtube.com/
 |https://zdfans.ctfile.com/mydisplay.php?
+@@||https://baidustatic.com$domain=xoyo.com
+@@||https://cpro.baidu.com/cpro/ui/baiduLoader_as3.swf
+@@||https://cpro.baidu.com/cpro/ui/uijs.php?$domain=www.400gb.com|www.pipipan.com
+@@||https://cpro.baidustatic.com/cpro/ui/f.js$script,domain=www.400gb.com|www.pipipan.com|colayun.com|coladrive.com
+@@|https://cpro.baidustatic.com/cpro/ui/baiduPatch.swf
+@@|https://cpro.baidustatic.com/cpro/ui/c.js$domain=400gb.com|www.l7po.com|ctfile.com|bego.cc|pipipan.com|colayun.com|coladrive.com|epinv.com
+@@|https://cpro.baidustatic.com/cpro/ui/noexpire/css/2.0.1/template.min.css
+|https://cpro.baidustatic.com^
 |https://dup.baidustatic.com/dup/ui/painter/pcInsert.js
 |https://dup.baidustatic.com/js/dm.js
 |https://dup.baidustatic.com/js/ds.js$domain=~epinv.com
@@ -3290,6 +3299,7 @@
 |https://dup.baidustatic.com/js/os.js$domain=~coladrive.com|~techweb.com.cn
 |https://dup.baidustatic.com/js/zm.js
 |https://dup.baidustatic.com/painter/union/slide.js$script
+|https://hpd.baidu.com/v.gif?
 |huacolor.com/wan/$script
 ||000b.info/js/
 ||00oo00.com
@@ -8485,6 +8495,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |https://tieba.baidu.com###plat_recom_carousel,.head_banner{height:75px;}
 !|https://tieba.baidu.com/f^##a.j_click_stats,div.sponsor_banner
 |https://tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],[class="list_item_wrapper j_click_stats"],[data-isautoreply="467"],[data-isautoreply="475"],[data-isautoreply="479"],div.BAIDU_CLB_AD.BAIDU_CLB_AD_pb,DIV.dialogJmodal,div.search_bottomad,DIV.game_spread_thread,DIV#game_rank,DIV#guide_fc.guidance_fc,DIV#j_ten_years,div.pc2client,LI.BAIDU_CLB_AD,DIV.BAIDU_CLB_AD_iframe,DIV#worldcup_guess_frs_wrap,DIV#j_worldcup_info_banner,DIV.game_frs_in_head,DIV.game_content,div[class^="spreadad spreadad_"],li.clearfix.spreadad.spreadad_0001,div[id^="spreadad_"],div.game_banner,div#guide_attrack.guide_attrack,ul.per_list_body.clearfix,[class*="j_thread_list clearfix thread_local_"],div.per_list.j_per_list.per_list_frs,div[id^=dasense_].dasense.dasense_0101,div[id^=dasense_].l_post_bright.dasense,div.lot_wrap,div.game_banner_common_wapper,DIV.u9_head.clearfix,div.global_notice_wrap,a.j_firework_sender.firework_sender,div#platform_left_float,div[class^="dasense dasense_"],li[id^="dasense_"],div.t_con.clearfix,a.j_couplet,div.item.live_show_aside ,div.iframe_wrapper.clearfix,li.j_df_card,DIV.post_is_tpoint,DIV.post_is_tpoint + DIV.p_content.p_content_icon_row1.p_content_nameplate,div.umoney,div[id^="__bdyx_tips"],div[class^="bdyx_tips_"],div#game_pop_window,[class="umoney-dialog"],img.close_btn.j_click_close,img.hover_btn,DIV#j_p_postlist > DIV.l_post.l_post_bright.j_l_post.clearfix + DIV[class$="clearfix"],DIV[class="j_carousel carousel"],[class="client_ad_topBanner_all"],div[id="pagelet_frs-aside/pagelet/ad"],div#game_live_list,div[id="pagelet_encourage-appforum/pagelet/my_app"],div.aside_region.my_app.j_encourage_entry,div.aside_region.life_helper,div#encourage_entry.encourage_entry,div[data-daid],li[data-daid],div.region_bright.my_app,div.tpoint-imgs,li[tid="79764372225"],[class^="frs_pb_leadapp_pop"],#plat_order_head,a[class="ti_item j_click_stats"],a[class="ti_item j_post_item_link"],[class="tb-multi-ad-wrap j_click_stats"],.j_pb_bottom,#cpro_container,#spage-top-banner,.spage-couplet-container,li[tid="94668300830"],[id="94668300830"],[id="94616159964"],li[tid="94616159964"],li[tid="96005294430"],.ad_app_download,[src^="http://adscdn.baidu.com/baichuan/adp/image/"],.tpoint-skin,.forum_recommend_w,[id="pagelet_frs-header/pagelet/head_content_middle"],[lgoinprompt="prompt"],li[tid="96601374387"],#duoku_servers_list,.activity_head,.top_toutu_admarks,.head_banner_img,.head_ad_tag,.l_banner,[class="l_post j_l_post l_post_bright  "][data-field*="1990070693,"],[class="j_click_stats img_wrap"]
+|https://ubmcmm.baidustatic.com/media/$domain=~www.u148.net|~qianyan001.com|~xdf.cn
 |https://user.qzone.qq.com###colorful_day
 |https://user.qzone.qq.com##.sidebar.gdtads_box
 |https://v.qq.com###_AdSame_Flash710
