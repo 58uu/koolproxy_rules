@@ -1,6 +1,6 @@
 !x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.8]
-!x  -----update[rules]: 2017-6-1 16:31
+!x  -----update[rules]: 2017-6-2 20:00
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
 !x  -----Tip: Welcome to rule group,Please Send mail to <wojiaolinmu008@gmail.com>
@@ -19,8 +19,12 @@ www.golangtc.com##.companel.panel-default
 |https://pagead2.googlesyndication.com/pagead
 |https://s0.2mdn.net/ads
 |https://stats.tubemogul.com/stats
+|https://ads.exoclick.com/
+|https://adserver.juicyads.com/js/
+||https://histats.com/$script
 ||ads.youtube.com
 ||azabu-u.ac.jp
+||autoimg.cn/engine/root/fggxl.js
 ||couchcoaster.jp
 ||crt.comodoca.com
 ||delivery.dmkt-sp.jp
