@@ -1,6 +1,6 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.9]
-!x  -----update[rules]: 2017-6-10 22:51
+!x  -----update[rules]: 2017-6-10 23:32
 !x  -----update[video]: 2017-6-6 12:42
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
@@ -2362,7 +2362,7 @@
 |http://ue.shouyoucdn.com/images/www/index/2013/17173-600x110.jpg
 |http://ue8.17173.itc.cn/cache/www/adref/2012/adref.min.js
 |http://un.52rkl.cn/union.js
-|http://union.netease
+|http://union.netease.*
 |http://union.yhd.com/link_make/viewPicInfo.do?
 |http://union.yihaodian.com$third-party
 |http://unjs.yk0712.com^
