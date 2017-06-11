@@ -1,6 +1,6 @@
 ﻿!x  -----------------------------------------------------------------------------------------------------------------
 !x  -----[KoolProxy Plus 3.5.9]
-!x  -----update[rules]: 2017-6-10 23:32
+!x  -----update[rules]: 2017-6-11 19:46
 !x  -----update[video]: 2017-6-6 12:42
 !x  -----Thanks: From KP Rule Group -- <houzi-> <today2004> <a-len> <xiaoxia> <leo> <Carseason>
 !x  -----Thanks for help: <CJX> <yiclear> <xwhyz> 
@@ -3284,9 +3284,15 @@
 |https://content.googleapis.com/youtubei/*/log_interaction?
 |https://dp3.qq.com/qqcom/
 |https://fp.fraudmetrix.cn/fp/clear.png?
+|https://file.ithome.com/js/money/pc/$script
+|https://file.ithome.com/js/recommend.js$script
 |https://googleads.g.doubleclick.net/
 |https://googleads.g.doubleclick.net/pagead/ads?ad_block^
 |https://googleads.g.doubleclick.net^
+|https://img.ithome.com/file/js/money/pc/$script
+|https://img.ithome.com/file/js/win7china.js
+|https://img.ithome.com/images/lagou/lagou.gif
+|https://img.ithome.com/images/partner/*.gif|$image
 |https://l.qq.com/lview?
 |https://pagead2.googlesyndication.com
 |https://pagead2.googlesyndication.com/
@@ -3298,6 +3304,8 @@
 |https://t1.hoopchina.com.cn/topn$subdocument
 |https://www.google.com/uds/api/ads/*
 |https://www.googletagservices.com^$third-party
+|https://www.ithome.com/js/lapin/hot.js
+|https://www.ithome.com##.close
 |https://www.youtube-nocookie.com/gen_204?$image,script
 |https://www.youtube.com/api/stats/ads?
 |https://www.youtube.com/csi_204?
@@ -3323,6 +3331,8 @@
 |https://dup.baidustatic.com/painter/union/slide.js$script
 |https://hpd.baidu.com/v.gif?
 |huacolor.com/wan/$script
+||https://img.ithome.com/file/js/money/wap/content2.js
+||https://img.ithome.com/file/js/money/wap/content3.js
 ||000b.info/js/
 ||00oo00.com
 ||010teacher.com$third-party
@@ -8517,6 +8527,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |https://hao.360.cn###large2small
 ||https://hupu.com##div[class^="hp-ad"],div[class^="nba-ad"],div[class^="voice-ad"],div[class^="ad"][class$="0"],DIV[class^="ad_728 ad_728_"],DIV.ad_250.ad_250_d,div#HCFull,DIV[style="width:980px;height:200px;margin:0 auto 10px;overflow:hidden;"],DIV.rightAd260X90,DIV.clearLt.ad720-90,DIV.mrBt8.ad361-240-240,DIV.hp-w.hp-header-banner,div[id^="div-gpt-ad-"],div[id^="childBoardsDataAd"],div#J_beforelogin_tip,iframe[src*="://t1.hoopchina.com.cn/"],[class^="soccer-ad"],[class^="tennis-ad"],.tennis-ad728-90,.soccer-ad728-90,.tu-ad960-60,.bd2,.bd3,.result-adBox,#shihuo1111,.bd1,[class^="voice-ad"],.ad_reply,[class^="m-app"],.hp-curtain,[height="60"],iframe[src^="//t1.hoopchina.com.cn/topn-"]
 ||https://hupu.com##[class^="voice-ad"]
+||https://ithome.com##DIV#hl960 + A > IMG[src^="http://t3.qpic.cn/"]:first-child,IMG[src^="http://ww2.sinaimg.cn/large/"],DIV#bbs_hl,div.a_pb,LI.sb_list > DIV.bx,ins.adsbygoogle,div[id^="a"][id$="g"],DIV#lagouData,DIV#hl-head,DIV#hl960,DIV#con > DIV#hl,IFRAME[src="http://www.ithome.com/block/headerline.htm"],div#side_pos1,div#hd_float,li#side_pos1,div#tt1,div[id$="hlindex"],div#hla,A[href^="http://e.cn.miaozhen.com"],div#tt5,li[style="padding-bottom:0;height:90px"],#hl-toutiao
 |https://m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 |https://nba.hupu.com##div[class^="nba-ad"]
 |https://plus.googleapis.com^*/widget/render/comments?$subdocument,domain=youtube.com
