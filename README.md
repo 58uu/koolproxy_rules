@@ -41,4 +41,4 @@
 
 ## USAGE
 
-[koolproxy usage](https://getadblock.com/)</br>
+[koolproxy usage](https://raw.githubusercontent.com/koolproxy/koolproxy_rules/master/user.txt)</br>
